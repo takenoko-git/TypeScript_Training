@@ -1,0 +1,2 @@
+interface person {}
+interface Person {}
